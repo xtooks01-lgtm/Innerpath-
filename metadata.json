@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Copy of InnerPath Master AI 5",
+  "description": "InnerPath – Your Personal Quest & Productivity Hub\nInnerPath transforms your daily goals into actionable quests, helping you stay focused, motivated, and disciplined. With a sleek dark-violet to blue interface, InnerPath combines task management, progress tracking, and insights into one intelligent hub.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
